@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/desktop/*"
+  to = "http://ipv6.zoob.netlify.app:3389/:splat"
+  status = 200
